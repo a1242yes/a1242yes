@@ -3,11 +3,15 @@
 ---
 
 ## 🧑‍🌾 Git Farm
-<div align="center">
-  <img src="스크린샷 2025-08-28 104945.png" alt="Git Farm Eunseo" width="500"/>
-  <br/>
-  <sub>🌱 Keep growing with contributions 🌱</sub>
-</div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/a1242yes"
+    width="600"
+    height="190"
+  />
+</a>
+  
 
 ---
 
