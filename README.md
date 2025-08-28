@@ -24,11 +24,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐾 My Animal Friends
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a1242yes&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1242yes&layout=compact&theme=tokyonight)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVlNnRjaGIzdTRib2F2NnUxaHcydnNhY3l5a3k5MHEwYnNkaWgyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ki55RUbOV5njy/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3prcG9uNGQ3aGxxY2VtdXcxaGV6dWhncWd0YjU4dHRjNjdiN2ZpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2k4bjZtZDJwZGp3M3ZvbW9zZ2E3b2drZDRhbHRrMXY0ajB1OXVpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
+
+✨ 코딩할 때 함께하는 귀여운 동물 친구들 ✨
 
 </div>
 
