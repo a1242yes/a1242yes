@@ -2,6 +2,15 @@
 
 ---
 
+## 🧑‍🌾 Git Farm
+<div align="center">
+  <img src="스크린샷 2025-08-28 104945.png" alt="Git Farm Eunseo" width="500"/>
+  <br/>
+  <sub>🌱 Keep growing with contributions 🌱</sub>
+</div>
+
+---
+
 ## 🛠 Tech Stack
 <div align="center">
 
@@ -24,19 +33,6 @@
 
 ---
 
-## 🐾 My Animal Friends
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVlNnRjaGIzdTRib2F2NnUxaHcydnNhY3l5a3k5MHEwYnNkaWgyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ki55RUbOV5njy/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3prcG9uNGQ3aGxxY2VtdXcxaGV6dWhncWd0YjU4dHRjNjdiN2ZpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2k4bjZtZDJwZGp3M3ZvbW9zZ2E3b2drZDRhbHRrMXY0ajB1OXVpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
-
-✨ 코딩할 때 함께하는 귀여운 동물 친구들 ✨
-
-</div>
-
----
-
 ## 🔗 Connect with me
 <a href="https://your-blog-link" target="_blank"><img src="https://img.shields.io/badge/Blog-FF6F61?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/yes_.l2o1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -44,4 +40,4 @@
 
 ---
 
-⭐️ From [a1242yes](https://github.com/a1242yes)
+⭐️ From [eunseo](https://github.com/a1242yes)
