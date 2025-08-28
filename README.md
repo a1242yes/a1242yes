@@ -5,34 +5,22 @@
 ## 🧑‍🌾 Git Farm
 
 <div>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725270492714520"
-  />
-</a>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725931389195913"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725269863567222"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725268970181600"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725269569966760"
-  />
-</a>
-  </div>
-  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725270492714520" height="200px"/>
+  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725931389195913" height="200px"/>
+  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725269863567222" height="200px"/>
+  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725268970181600" height="200px"/>
+  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=a1242yes&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/a1242yes?pet-id=748725269569966760" height="200px"/>
+  </a>
+</div>
   
 
 ---
