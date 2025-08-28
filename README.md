@@ -1,9 +1,4 @@
 # Hi there 👋 I'm 은서!
-
-🌱 I’m currently learning **React, TypeScript, Kotlin, and Finance**  
-🎯 Goal: To become a **developer who grows while helping others**  
-✨ Interests: Frontend Development, Android App Development, Game Dev with C++, and Financial Tech  
-
 ---
 
 ## 🛠 Tech Stack
@@ -40,7 +35,7 @@
 
 ## 🔗 Connect with me
 <a href="https://your-blog-link" target="_blank"><img src="https://img.shields.io/badge/Blog-FF6F61?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://instagram.com/your-id" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/your-id" target="_blank"><img src="https://www.instagram.com/yes_.l2o1/"/></a>
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ---
