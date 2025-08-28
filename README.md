@@ -1,4 +1,5 @@
 # Hi there 👋 I'm 은서!
+
 ---
 
 ## 🛠 Tech Stack
@@ -35,7 +36,7 @@
 
 ## 🔗 Connect with me
 <a href="https://your-blog-link" target="_blank"><img src="https://img.shields.io/badge/Blog-FF6F61?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://instagram.com/your-id" target="_blank"><img src="https://www.instagram.com/yes_.l2o1/"/></a>
+<a href="https://www.instagram.com/yes_.l2o1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ---
